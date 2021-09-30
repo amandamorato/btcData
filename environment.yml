@@ -1,0 +1,8 @@
+name: BTCData
+channels:
+    - conda-forge
+dependencies:
+    - pandas
+    - notebook
+    - yfinance
+    - matplotlib
