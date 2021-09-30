@@ -1,6 +1,4 @@
 name: BTCData
-channels:
-    - conda-forge
 dependencies:
     - pandas
     - yfinance
