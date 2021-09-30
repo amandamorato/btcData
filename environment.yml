@@ -1,6 +1,0 @@
-name: BTCData
-dependencies:
-    - pandas
-    - yfinance
-    - plotly.express
-    - notebook
