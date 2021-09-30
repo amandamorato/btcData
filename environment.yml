@@ -1,6 +1,6 @@
 name: BTCData
 channels:
-    - conda-forge
+    - conda
 dependencies:
     - pandas
     - notebook
